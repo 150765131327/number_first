@@ -12,6 +12,7 @@
         <div>
             <img src="Images/adv1.jpg" />
             <img src="Images/adv2.jpg" />
+            <img src="Images/adv2.jpg" />
         </div>
     </form>
 </body>
